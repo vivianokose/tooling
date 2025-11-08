@@ -22,6 +22,8 @@ The project leverages the following stack-technologies:
 - **Other:**
   - Docker (For containerization)
   - Composer (For PHP dependency management)
+ 
+  - just to test my hands on jenkins
 
 ### Versioning
 
